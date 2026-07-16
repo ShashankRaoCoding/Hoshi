@@ -1,0 +1,13 @@
+-s accepts path to folder containing the .md files 
+-t accepts the path to the html files 
+
+index.md is index.html, and each html page is named according to the .md file it is sourced from 
+
+UI 
+each page should have a hamburger menu left panel 
+the panel should allow navigating to other pages 
+pages are organised by their folders, so a folder is clicked, and the pages appear, and the page is clicked, and the page redirects 
+
+Ensure compatibility with mobile devices. 
+
+Ensure full .md comaptibility, including mermaid diagrams, and code in an extensible way with good coding practices for future feature additions. 
